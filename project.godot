@@ -1,0 +1,14 @@
+config_version=5
+
+[application]
+config/name="탈출! 자유를 찾아서"
+run/main_scene="res://main.tscn"
+
+[display]
+window/size/viewport_width=1000
+window/size/viewport_height=650
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.95,0.92,0.84,1)
